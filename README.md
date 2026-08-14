@@ -2,7 +2,7 @@
 
 A premium, interactive, and fully responsive personal portfolio designed to showcase software engineering projects, modern UI/UX design paradigms, and programming skills. 
 
-✨ **Live Demo:** [https://m0haammad.github.io/Portfolio/](https://m0haammad.github.io/Portfolio/) *(or your deployed custom link)*
+✨ **Live Demo:** ( https://m0haammad.github.io/Portfolio/) 
 
 ---
 
